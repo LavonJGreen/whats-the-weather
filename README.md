@@ -9,7 +9,7 @@ An app that find the weather for 5 days in the city searched.
 *JavaScript
 
 ## Website
-https://lavonjgreen.github.io/Weather-Dashbaord/
+ https://lavonjgreen.github.io/whats-the-weather/
 
 ## Screenshot
 ![Alt text](screencapture-lavonjgreen-github-io-Weather-Dashbaord-2022-06-02-01_21_26.png)
