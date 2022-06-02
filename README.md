@@ -8,5 +8,12 @@ An app that find the weather for 5 days in the city searched.
 *CSS
 *JavaScript
 
+## Website
+https://lavonjgreen.github.io/Weather-Dashbaord/
+
+## Screenshot
+![Alt text](/dashboard.png)
+
+
 ## Contribution 
 Made by Lavon J Green
